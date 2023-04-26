@@ -1,15 +1,30 @@
 {
   "calendarSources": [
     {
-      "type": "ical",
+      "type": "local",
       "color": "hsl( 254,  80%, calc( 68% - 3.8%))",
-      "url": "https://calendar.google.com/calendar/ical/50df8cfaca0d5b430523adffb413743cb2f7423c81fd5c793eddb0263a83149c%40group.calendar.google.com/public/basic.ics"
+      "directory": "Calendar"
+    },
+    {
+      "type": "ical",
+      "color": "#7d5bed",
+      "url": "https://calendar.google.com/calendar/ical/50df8cfaca0d5b430523adffb413743cb2f7423c81fd5c793eddb0263a83149c%40group.calendar.google.com/private-612c552af670c2be2e9d73880ec5b38f/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#9b61ff",
+      "url": "https://calendar.google.com/calendar/ical/76447bbacf95793e3a30039f0508bd2e4e0fe55abbf3dc05ee4334e1d5285234%40group.calendar.google.com/private-f6a919ce57aab8275c1cbe8d02032447/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#6247ba",
+      "url": "https://calendar.google.com/calendar/ical/e4ce387461464e798f520c9ae29ecc7ab5ce4d3a3354f9a7827c707b4324a64f%40group.calendar.google.com/private-d7a33ab14b6f85b52cab0b34e4d5fc2c/basic.ics"
     }
   ],
   "defaultCalendar": 0,
   "firstDay": 0,
   "initialView": {
-    "desktop": "timeGridWeek",
+    "desktop": "dayGridMonth",
     "mobile": "timeGrid3Days"
   },
   "timeFormat24h": false

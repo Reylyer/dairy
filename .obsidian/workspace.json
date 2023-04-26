@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66f870610b3cf4bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn/Cyber Security/Reverse Engineering/Reverse Engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "28b956336ee85197",
             "type": "leaf",
             "state": {
@@ -27,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn/Cyber Security/Reverse Engineering/Reverse Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn/Cyber Security/Reverse Engineering/Reverse Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learn/Cyber Security/Reverse Engineering/Reverse Engineering.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,10 +143,11 @@
   },
   "active": "11f042f4b505a3e5",
   "lastOpenFiles": [
-    "Learn/Software/Obsidian/Obsidian.md",
-    "Learn/Cyber Security/Reverse Engineering/Reverse Engineering.md",
-    "Daily/2023-04-26.md",
     "Untitled.canvas",
+    "TODO",
+    "Learn/Cyber Security/Reverse Engineering/Reverse Engineering.md",
+    "Learn/Software/Obsidian/Obsidian.md",
+    "Daily/2023-04-26.md",
     "Learn/Cyber Security/Hack The Box/Machines",
     "Learn/Cyber Security/Hack The Box/Challenges",
     "Learn/Cyber Security/Hack The Box",
@@ -173,7 +157,6 @@
     "Wild Ideas",
     "Learn/Software/Krita",
     "Untitled.md",
-    "Learn/Software/Obsidian",
-    "Untitled 1"
+    "Learn/Software/Obsidian"
   ]
 }
