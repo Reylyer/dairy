@@ -31,24 +31,12 @@
             "id": "6a085da430889b4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-04-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d9909a6d26e018f",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,13 +162,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "11f042f4b505a3e5",
+  "active": "6a085da430889b4c",
   "lastOpenFiles": [
+    "Daily/2023-04-27.md",
+    "DAC.md",
+    "Learn/Misc/Membersihkan kamar.md",
     "Learn/Game Development/Unity",
     "Learn/Game Development/Game Maker Studio",
     "Learn/Game Development/Defold",
-    "Learn/Misc/Membersihkan Kamar.md",
-    "Daily/2023-04-27.md",
     "Untitled.md",
     "Learn/Misc",
     "My Review or smthn/Samsung HW-T420.md",
@@ -193,7 +182,6 @@
     "Learn/Cyber Security/Hack The Box/Machines",
     "Learn/Cyber Security/Hack The Box/Challenges",
     "Learn/Cyber Security/Hack The Box",
-    "Learn/Game Development",
-    "Learn/Cyber Security"
+    "Learn/Game Development"
   ]
 }
