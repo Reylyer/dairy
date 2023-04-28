@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,13 +157,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5f2854da7c04364b",
+  "active": "aedbf4461bef515a",
   "lastOpenFiles": [
+    "Daily/2023-04-27.md",
+    "Daily/2023-04-28.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Learn/Misc/Membersihkan kamar.md",
-    "Daily/2023-04-28.md",
-    "Daily/2023-04-27.md",
     "DAC.md",
     "Learn/Game Development/Unity",
     "Learn/Game Development/Game Maker Studio",
