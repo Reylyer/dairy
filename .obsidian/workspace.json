@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "645b640ae3bea89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/tmpl_daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5f2854da7c04364b",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-04-29.md",
+                "file": "Templates/tmpl_daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-04-29.md",
+                "file": "Templates/tmpl_daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-04-29.md"
+                "file": "Templates/tmpl_daily.md"
               }
             }
           }
@@ -157,29 +170,29 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "aedbf4461bef515a",
+  "active": "645b640ae3bea89c",
   "lastOpenFiles": [
+    "Templates/tmpl_daily.md",
+    "Daily/2023-04-29.md",
+    "Templates",
+    "Daily/2023-04-26.md",
+    "Daily/2023-04-27.md",
+    "Daily/2023-04-28.md",
     "Learn/Software/Obsidian/Obsidian.md",
     "Learn/Cyber Security/Reverse Engineering/Reverse Engineering.md",
     "My Review or smthn/Samsung HW-T420.md",
     "Learn/Misc/Membersihkan kamar.md",
-    "Daily/2023-04-26.md",
-    "Daily/2023-04-27.md",
-    "Daily/2023-04-28.md",
-    "Daily/2023-04-29.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "DAC.md",
     "Learn/Game Development/Unity",
     "Learn/Game Development/Game Maker Studio",
     "Learn/Game Development/Defold",
-    "Untitled.md",
     "Learn/Misc",
     "My Review or smthn",
     "TODO",
     "Learn/Cyber Security/Hack The Box/Machines",
     "Learn/Cyber Security/Hack The Box/Challenges",
-    "Learn/Cyber Security/Hack The Box",
-    "Learn/Game Development"
+    "Learn/Cyber Security/Hack The Box"
   ]
 }
