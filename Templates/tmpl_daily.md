@@ -1,9 +1,9 @@
 ## Task
 
-- [ ] 2 Hour spent on [[Game Maker Studio]]]
+- [ ] 2 Hour spent on [[Game Maker Studio]]
 - [ ] At least 2 lab [[HTB]]
 
-## What I Do Today
+## Today's Stories
 
 1. 
 

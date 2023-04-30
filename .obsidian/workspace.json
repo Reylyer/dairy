@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,13 +169,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a98fdd34c7629218",
+  "active": "aedbf4461bef515a",
   "lastOpenFiles": [
-    "Daily/2023-04-29.md",
-    "Daily/2023-05-01.md",
     "Daily/2023-04-30.md",
-    "Bluetooth.md",
+    "Daily/2023-05-01.md",
     "Templates/tmpl_daily.md",
+    "Daily/2023-04-29.md",
+    "Bluetooth.md",
     "Templates",
     "Daily/2023-04-26.md",
     "Daily/2023-04-27.md",
