@@ -15,7 +15,7 @@
               "state": {
                 "file": "Learn/Kuliah/RPL.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -39,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "aedbf4461bef515a",
+  "active": "a98fdd34c7629218",
   "lastOpenFiles": [
     "Learn/Tech",
     "Learn/Kuliah/RPL/PDM.md",

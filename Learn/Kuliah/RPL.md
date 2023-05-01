@@ -31,8 +31,21 @@ Bagaimana objek beraksi dan bereaksi
 ## Metode Berorientasi Objek
 - Kita memandang masalah yang akan diselesaikan sebagai objek objek
 - Objek yang berhubungan dan berinteraksi akan dibuatkan sebuah use case diagram
+- 
 ## Metode Terstruktur vs Berorientasi Objek
+
+| Pembeda     | Structured      | PBO               |
+| ----------- | --------------- | ----------------- |
+| Fokus       |                 |             |
+| Pemodelan   |                 | |
+| Reusing     |  |      |
+| Metodologi  |                 | Iteratif & inkremental|
+| Dekomposisi | Algoritmik      | Object oriented|
 ## Elemen Model Objek
+### Abstraction
+### Encapsulation
+### Modularity
+### Hierarchy
 ## Analisis Berorientasi Objek
 ## Desain Berorientasi Objek
-
+"How"
