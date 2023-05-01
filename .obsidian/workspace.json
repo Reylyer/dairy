@@ -39,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "aedbf4461bef515a",
+  "active": "a98fdd34c7629218",
   "lastOpenFiles": [
     "Daily/2023-04-30.md",
     "Daily/2023-05-01.md",
