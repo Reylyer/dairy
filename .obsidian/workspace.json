@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-05-01.md",
+                "file": "Learn/Kuliah/RPL.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-05-01.md",
+                "file": "Learn/Kuliah/RPL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-05-01.md",
+                "file": "Learn/Kuliah/RPL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-05-01.md"
+                "file": "Learn/Kuliah/RPL.md"
               }
             }
           }
@@ -170,18 +169,23 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a98fdd34c7629218",
+  "active": "aedbf4461bef515a",
   "lastOpenFiles": [
-    "Daily/2023-04-30.md",
+    "Learn/Tech",
+    "Learn/Kuliah/RPL/PDM.md",
+    "Learn/Kuliah/RPL.md",
+    "Learn/Software/Obsidian/Obsidian.md",
     "Daily/2023-05-01.md",
+    "Learn/Kuliah/RPL",
+    "Learn/Kuliah",
+    "Daily/2023-04-30.md",
     "Templates/tmpl_daily.md",
     "Daily/2023-04-29.md",
-    "Bluetooth.md",
+    "Learn/Tech/Bluetooth.md",
     "Templates",
     "Daily/2023-04-26.md",
     "Daily/2023-04-27.md",
     "Daily/2023-04-28.md",
-    "Learn/Software/Obsidian/Obsidian.md",
     "Learn/Cyber Security/Reverse Engineering/Reverse Engineering.md",
     "My Review or smthn/Samsung HW-T420.md",
     "Learn/Misc/Membersihkan kamar.md",
@@ -194,8 +198,6 @@
     "Learn/Misc",
     "My Review or smthn",
     "TODO",
-    "Learn/Cyber Security/Hack The Box/Machines",
-    "Learn/Cyber Security/Hack The Box/Challenges",
-    "Learn/Cyber Security/Hack The Box"
+    "Learn/Cyber Security/Hack The Box/Machines"
   ]
 }
