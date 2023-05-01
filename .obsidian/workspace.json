@@ -11,8 +11,12 @@
             "id": "aedbf4461bef515a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-05-02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2023-05-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2023-05-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2023-05-02.md"
+              }
             }
           }
         ]
@@ -165,6 +173,7 @@
   "lastOpenFiles": [
     "Daily/2023-05-01.md",
     "Daily/2023-04-30.md",
+    "Daily/2023-05-02.md",
     "Learn/Kuliah/RPL.md",
     "Learn/Tech",
     "Learn/Kuliah/RPL/PDM.md",
