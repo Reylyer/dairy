@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "645b640ae3bea89c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/tmpl_daily.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a98fdd34c7629218",
             "type": "leaf",
             "state": {
@@ -39,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,18 +158,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "aedbf4461bef515a",
+  "active": "11f042f4b505a3e5",
   "lastOpenFiles": [
+    "Templates/tmpl_daily.md",
+    "Daily/2023-05-02.md",
     "Daily/2023-05-01.md",
     "Daily/2023-04-30.md",
-    "Daily/2023-05-02.md",
     "Learn/Kuliah/RPL.md",
     "Learn/Tech",
     "Learn/Kuliah/RPL/PDM.md",
     "Learn/Software/Obsidian/Obsidian.md",
     "Learn/Kuliah/RPL",
     "Learn/Kuliah",
-    "Templates/tmpl_daily.md",
     "Daily/2023-04-29.md",
     "Learn/Tech/Bluetooth.md",
     "Templates",
