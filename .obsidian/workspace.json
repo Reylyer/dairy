@@ -21,14 +21,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-05-02.md",
+                "file": "Learn/Cyber Security/Hack The Box/Machines/Mongod.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-05-02.md",
+                "file": "Learn/Cyber Security/Hack The Box/Machines/Mongod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-05-02.md",
+                "file": "Learn/Cyber Security/Hack The Box/Machines/Mongod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-05-02.md"
+                "file": "Learn/Cyber Security/Hack The Box/Machines/Mongod.md"
               }
             }
           }
@@ -158,15 +157,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8a1cbc80f67e2848",
+  "active": "a98fdd34c7629218",
   "lastOpenFiles": [
+    "Daily/2023-05-02.md",
     "Daily/2023-04-26.md",
     "Daily/2023-04-27.md",
     "Daily/2023-04-28.md",
     "Daily/2023-04-29.md",
     "Daily/2023-04-30.md",
     "Daily/2023-05-01.md",
-    "Daily/2023-05-02.md",
     "Pasted image 20230502103827.png",
     "![[Pasted.md",
     "Learn/Cyber Security/Hack The Box/Machines/Mongod.md",
