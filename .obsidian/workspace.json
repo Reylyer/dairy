@@ -165,8 +165,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "random-note:Open random note": false
     }
   },
   "active": "aedbf4461bef515a",
