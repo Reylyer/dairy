@@ -62,3 +62,56 @@ A.bunyi() {"Guk"}
 ```
 
 ## Pertemuan 10
+
+### Lanjutan klasifikasi Polimorphism (Parametrik)
+
+Sebuah generic class yang diberikan parameter
+The weird way
+
+```
+generic class Hewan<T>
+	- data: T
+	procedure bunyi()
+		output data.bunyi()
+
+	constructor Hewan<T>(x: T)
+		data <- new T()
+
+```
+
+```
+KAMUS
+	H: Hewan
+	
+ALGORITMA
+	H <- new Hewan<Kucing>
+	H.bunyi()
+```
+
+Kinda the java way, idk a lil bit confused
+
+```
+generic class Hewan<T>
+	- data: T
+	procedure bunyi()
+		output data.bunyi()
+
+	function getData() -> T
+		-> data
+
+	procedure setData(data: T)
+		this.data <- data
+```
+
+```
+KAMUS
+	H: Hewan
+	K: Kucing
+	
+ALGORITMA
+	H <- new Hewan<Kucing>
+	H.getData().bunyi()
+```
+
+# JAVA SUCKS
+
