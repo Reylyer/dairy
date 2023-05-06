@@ -1,4 +1,4 @@
-
+Jika kita membahas lebih dalam, 
 
 Contoh dari distribusi linux adalah
 - Debian
