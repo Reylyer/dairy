@@ -2,9 +2,18 @@
 	"nodes":[
 		{"type":"file","file":"Learn/IRICH/Cyber Security/Basic Linux Operation/Linux.md","id":"8341ee96b5ee5067","x":-93,"y":-524,"width":400,"height":400},
 		{"type":"text","text":"# Pertemuan 1","id":"08cd1713154b6c94","x":-93,"y":-700,"width":273,"height":85},
-		{"type":"file","file":"Learn/IRICH/Cyber Security/Basic Linux Operation/Perbandingan Linux vs Windows.md","id":"62d539f625ad48b6","x":400,"y":-524,"width":400,"height":400},
-		{"id":"b56ea5a00e91a1dd","x":920,"y":-524,"width":400,"height":400,"type":"file","file":"Learn/IRICH/Cyber Security/Basic Linux Operation/Linux Distributions.md"},
-		{"type":"file","file":"Learn/IRICH/Cyber Security/Basic Linux Operation/Shell.md","id":"db82219d53218dc9","x":-93,"y":40,"width":400,"height":400}
+		{"type":"file","file":"Learn/IRICH/Cyber Security/Basic Linux Operation/Shell.md","id":"db82219d53218dc9","x":-93,"y":40,"width":400,"height":400},
+		{"type":"text","text":"```\nI'd just like to interject for a moment.  What you're referring to as Linux,\nis in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus Linux.\nLinux is not an operating system unto itself, but rather another free component\nof a fully functioning GNU system made useful by the GNU corelibs, shell\nutilities and vital system components comprising a full OS as defined by POSIX.\n\nMany computer users run a modified version of the GNU system every day,\nwithout realizing it.  Through a peculiar turn of events, the version of GNU\nwhich is widely used today is often called \"Linux\", and many of its users are\nnot aware that it is basically the GNU system, developed by the GNU Project.\n\nThere really is a Linux, and these people are using it, but it is just a\npart of the system they use.  Linux is the kernel: the program in the system\nthat allocates the machine's resources to the other programs that you run.\nThe kernel is an essential part of an operating system, but useless by itself;\nit can only function in the context of a complete operating system.  Linux is\nnormally used in combination with the GNU operating system: the whole system\nis basically GNU with Linux added, or GNU/Linux.  All the so-called \"Linux\"\ndistributions are really distributions of GNU/Linux.\n```","id":"fdfa61df4c6567fa","x":399,"y":-1131,"width":721,"height":516},
+		{"type":"file","file":"Learn/IRICH/Cyber Security/Basic Linux Operation/Perbandingan Linux vs Windows.md","id":"62d539f625ad48b6","x":399,"y":-524,"width":400,"height":400},
+		{"type":"file","file":"Learn/IRICH/Cyber Security/Basic Linux Operation/Linux Distributions.md","id":"b56ea5a00e91a1dd","x":900,"y":-524,"width":400,"height":400},
+		{"type":"file","file":"Learn/IRICH/Cyber Security/Basic Linux Operation/Package Manager.md","id":"81e631c61d166d23","x":1400,"y":-524,"width":400,"height":400},
+		{"type":"file","file":"Learn/IRICH/Cyber Security/Basic Linux Operation/systemd.md","id":"bbf07fc1efb44aeb","x":2200,"y":-524,"width":400,"height":400},
+		{"type":"file","file":"Learn/IRICH/Cyber Security/Basic Linux Operation/sudo.md","id":"a3be9dcea686ba4b","x":2200,"y":40,"width":400,"height":400},
+		{"id":"ebf09570dae594b1","x":1540,"y":40,"width":400,"height":400,"type":"file","file":"Learn/IRICH/Cyber Security/Basic Linux Operation/Useful programs.md"},
+		{"type":"file","file":"Learn/IRICH/Cyber Security/Basic Linux Operation/Services.md","id":"1c2164a24763dd05","x":399,"y":40,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e8c43b8f3fc2b23a","fromNode":"ebf09570dae594b1","fromSide":"right","toNode":"a3be9dcea686ba4b","toSide":"left"},
+		{"id":"03e7f5400ab58c91","fromNode":"ebf09570dae594b1","fromSide":"right","toNode":"bbf07fc1efb44aeb","toSide":"left"}
+	]
 }
