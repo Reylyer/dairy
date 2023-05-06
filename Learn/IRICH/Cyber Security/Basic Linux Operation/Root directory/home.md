@@ -1,0 +1,1 @@
+home, directory yang menyimpan "workspace" untuk user. Didalam directory ini berisi directory home untuk user. Berikut 
