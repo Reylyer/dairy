@@ -1,0 +1,1 @@
+bin, kependekan dari binary. Directory ini ber
