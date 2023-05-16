@@ -115,3 +115,51 @@ ALGORITMA
 
 # JAVA SUCKS
 
+# Pertemuan 11
+## Intro
+
+--- Bahas GEMASTIK 2023
+--- recap polimorphism
+
+## Koleksi
+
+komponen: bagian/kepemilikan sebuah objek
+elemen: bagian dari sebuah himpunan/koleksi
+
+Karakteristik koleksi
+- Dapat dalam mengelola objek apapun, dengan urutan sesuai yang dimasukkan
+- Dapat menmpung objek tapi unik
+- Diproses secara FIFO atau LIFO
+
+
+Beberapa operasi Koleksi
+- add()
+- contains()
+- remove()
+
+```
+
+					                 Collection<E>
+
+							/              |                \
+
+					List<E>              Queue<E>            Set<E>
+			/         |       \  /           |                 |      \
+ArrayList<E>     Vector<E>  LinkedList<E>  PriorityQueue<E>  sorted   unsorted
+															   |         |
+													LinkedHashSet<E> HashSet<E> 
+```
+
+
+# Pertemuan 12 - Persistensi
+## Kosakata
+### Persistent
+>Penyimpanan yang "abadi", disimpan di dalam penyimpanan sekunder. Contohnya adalah penyimpanan data teks di sebuah file. Contoh lainnya adalah penyimpanan data di dalam database.
+### Transient
+>
+### Volatile
+>
+### Temporer
+>
+
+Berhubungan dengan [[RPL]]
